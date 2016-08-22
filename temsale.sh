@@ -1,3 +1,4 @@
+#! /usr/bin/env bash
 set -e
 sleeptime=0.07s
 sleep 3s
